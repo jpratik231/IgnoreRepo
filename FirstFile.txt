@@ -1,0 +1,6 @@
+First file text
+
+Test git merge from git hub
+
+Test merge from git
+git ignore
